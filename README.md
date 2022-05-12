@@ -4,6 +4,7 @@
 Louise wants to start a crowdfunding campaign for her new play, fever. We will be analyzing a large data set to determine key characteristics to improve the likelihood of a successful campaign. 
 
 ##Analysis and Challenges
+
 ###Analysis of Outcomes Based on Launch Date
 Louise will be happy to know that the odds of a successful campaign are in her favour! There are consistently more successful campaigns than failed/cancelled ones. December is the only month where they come close to being equally as likely, so Louise should be sure to avoid launching her campaign in that month. In order to optimize her campaign, Louise should consider launching her campaign in the month of May, since that is when it most likely that her campaign will be successful. 
 
