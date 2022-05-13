@@ -17,7 +17,7 @@ This analysis compares the outcomes of campaigns dependant on the amount of the 
 ![Outcomes_vs_Goals.png](https://github.com/roborowanb/kickstarter-analysis/blob/31cd2c871234ad48524f08a9cdd4da9df4bed68c/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-Personally, it took me a while to get comfortable with the course routine. I assumed that I could just start the week as the module challenge but realized that the assignment includes all the work leading up throughout the module that week. I also ran into a company firewall when trying to submit this assignment, so I had to purchase a new laptop in time for Thursdays 11:59pm deadline.  I think this assignment would have been much harder if I didn’t already have experience with Excel. I am glad we started the course with excel basics, so that the course load isn’t too demanding while a routine is being established.  
+Personally, it took me a while to get comfortable with the course routine. I assumed that I could just start the week at the module challenge but realized that the assignment includes all the work leading up throughout the module that week. I also ran into a company firewall when trying to submit this assignment, so I had to purchase a new laptop in time for Thursdays 11:59pm deadline.  I think this assignment would have been much harder if I didn’t already have experience with Excel. I am glad we started the course with excel basics, so that the course load isn’t too demanding while a routine is being established.  
 
 ## Results
 1) The best month to launch a Kickstarter is May and the worst month to launch a Kickstarter is December
